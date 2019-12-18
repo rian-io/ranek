@@ -1,4 +1,6 @@
-# ranek
+# Ranek
+### Projeto final proposto no curso de VueJS Completo fornecido pela Origamid
+### Demo online em: https://ranek.origamid.dev/
 
 ## Project setup
 ```
